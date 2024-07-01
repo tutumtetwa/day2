@@ -1,0 +1,1 @@
+/json/named.search_player_all.bam?sport_code='mlb'&active_sw={active_sw}&name_part={name_part}
